@@ -1,0 +1,122 @@
+{
+  "I001": {
+    "ingredient_id": "I001",
+    "name": "红茶",
+    "category": "茶叶",
+    "shelf_life_days": 180,
+    "unit": "g",
+    "is_short_life": false
+  },
+  "I002": {
+    "ingredient_id": "I002",
+    "name": "绿茶",
+    "category": "茶叶",
+    "shelf_life_days": 180,
+    "unit": "g",
+    "is_short_life": false
+  },
+  "I003": {
+    "ingredient_id": "I003",
+    "name": "乌龙茶",
+    "category": "茶叶",
+    "shelf_life_days": 180,
+    "unit": "g",
+    "is_short_life": false
+  },
+  "I004": {
+    "ingredient_id": "I004",
+    "name": "鲜奶",
+    "category": "乳制品",
+    "shelf_life_days": 3,
+    "unit": "ml",
+    "is_short_life": true
+  },
+  "I005": {
+    "ingredient_id": "I005",
+    "name": "芝士",
+    "category": "乳制品",
+    "shelf_life_days": 7,
+    "unit": "g",
+    "is_short_life": true
+  },
+  "I006": {
+    "ingredient_id": "I006",
+    "name": "珍珠",
+    "category": "配料",
+    "shelf_life_days": 90,
+    "unit": "g",
+    "is_short_life": false
+  },
+  "I007": {
+    "ingredient_id": "I007",
+    "name": "椰果",
+    "category": "配料",
+    "shelf_life_days": 90,
+    "unit": "g",
+    "is_short_life": false
+  },
+  "I008": {
+    "ingredient_id": "I008",
+    "name": "芋圆",
+    "category": "配料",
+    "shelf_life_days": 90,
+    "unit": "g",
+    "is_short_life": false
+  },
+  "I009": {
+    "ingredient_id": "I009",
+    "name": "草莓",
+    "category": "水果",
+    "shelf_life_days": 2,
+    "unit": "g",
+    "is_short_life": true
+  },
+  "I010": {
+    "ingredient_id": "I010",
+    "name": "芒果",
+    "category": "水果",
+    "shelf_life_days": 3,
+    "unit": "g",
+    "is_short_life": true
+  },
+  "I011": {
+    "ingredient_id": "I011",
+    "name": "柠檬",
+    "category": "水果",
+    "shelf_life_days": 7,
+    "unit": "g",
+    "is_short_life": true
+  },
+  "I012": {
+    "ingredient_id": "I012",
+    "name": "水蜜桃",
+    "category": "水果",
+    "shelf_life_days": 3,
+    "unit": "g",
+    "is_short_life": true
+  },
+  "I013": {
+    "ingredient_id": "I013",
+    "name": "西瓜",
+    "category": "水果",
+    "shelf_life_days": 1,
+    "unit": "g",
+    "is_short_life": true
+  },
+  "I014": {
+    "ingredient_id": "I014",
+    "name": "糖浆",
+    "category": "配料",
+    "shelf_life_days": 365,
+    "unit": "ml",
+    "is_short_life": false
+  },
+  "I015": {
+    "ingredient_id": "I015",
+    "name": "冰块",
+    "category": "配料",
+    "shelf_life_days": 1,
+    "unit": "g",
+    "is_short_life": false
+  }
+}
